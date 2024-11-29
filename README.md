@@ -1,2 +1,5 @@
-# React + Vite
+Tech Stack
+
+React.js
+
 
