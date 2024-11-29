@@ -1,5 +1,3 @@
 Tech Stack
 
-React.js
-
-
+HTML5,CSS3,React.js
